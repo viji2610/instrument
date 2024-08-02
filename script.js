@@ -1,6 +1,6 @@
-window.addEventListener('resize', function() {
-    location.reload();
-}); 
+// window.addEventListener('resize', function() {
+//     location.reload();
+// }); 
 
 function sidebar(){
     // const hammenu = document.getElementById('hammenu')

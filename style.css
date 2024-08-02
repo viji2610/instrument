@@ -124,6 +124,7 @@ main {
     background-image: url("img/winter street.jpg");
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .two,
@@ -170,9 +171,11 @@ main {
     background-image: url(img/data.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 .three .img{
     background-position: right;
+    background-repeat: no-repeat;
 }
 
 .text {
@@ -234,6 +237,7 @@ main {
     /* background-color: peru; */
     background-image: url("img/dropbox.jpg");
     background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 20px;
 }
@@ -243,6 +247,7 @@ main {
     width: 100%;
     /* background-color: peru; */
     background-image: url("img/levis.jpg");
+    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     margin-bottom: 20px;
