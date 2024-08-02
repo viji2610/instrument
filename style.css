@@ -122,7 +122,7 @@ main {
     width: 100%;
     height: 600px;
     background-image: url("img/winter street.jpg");
-    background-position: center;
+    background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -169,7 +169,7 @@ main {
     width: 55%;
     /* background-color: pink; */
     background-image: url(img/data.jpg);
-    background-position: center;
+    background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -236,7 +236,7 @@ main {
     width: 100%;
     /* background-color: peru; */
     background-image: url("img/dropbox.jpg");
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 20px;
@@ -248,7 +248,7 @@ main {
     /* background-color: peru; */
     background-image: url("img/levis.jpg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top;
     background-size: cover;
     margin-bottom: 20px;
 }
