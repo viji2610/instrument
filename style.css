@@ -73,7 +73,7 @@ header h1 {
 
 header p {
     font-size: 20px;
-    padding-right: 300px;
+    padding-right: 30%;
     line-height: 1.5;
 }
 
@@ -352,7 +352,7 @@ footer .btn {
         padding: 0 20px;
     }
     header p{
-        padding-right: 260px;
+        /* padding-right: 260px; */
     }
     
 }
@@ -375,7 +375,7 @@ footer .btn {
         font-size: 70px;
     }
     header p{
-        padding-right: 200px;
+        /* padding-right: 200px; */
     }
     .one{
         height: 350px;
@@ -443,7 +443,7 @@ footer .btn {
         font-size: 40px;
     }
     header p{
-        padding-right: 100px;
+        /* padding-right: 100px; */
         font-size: 16px;
     }
     main{
@@ -534,7 +534,7 @@ footer .btn {
         font-size: 30px;
     }
     header p{
-        padding-right: 40px;
+        /* padding-right: 40px; */
         font-size: 15px;
     }
     main{
